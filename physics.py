@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.write("import java.sql.Connection;
+st.write("""import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
@@ -309,4 +309,4 @@ public class addtrain extends javax.swing.JFrame {
     private javax.swing.JTextField txtno;
     private javax.swing.JTextField txtprice;
     // End of variables declaration                   
-}")
+}""")
